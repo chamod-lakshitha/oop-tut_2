@@ -1,11 +1,9 @@
 package tut_2.Question_2;
 
-import Question.Question;
-
 import java.awt.*;
 
-public class Question_2 implements Question {
-    public void run() {
+public class Question_2{
+    public static void main(String args){
         Rectangle r1 = new Rectangle(0, 0, 100, 50);
 //        Rectangle r2 = new Rectangle(r1);
         System.out.println(r1);

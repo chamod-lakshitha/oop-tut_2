@@ -1,10 +1,7 @@
 package tut_2.Question_1;
 
-import Question.Question;
-
-public class Question_1 implements Question {
-    public void run()
-    {
+public class Question_1{
+    public static void main(String[] args) {
         String animal1 = "quick brown fox";
         String animal2 = "lazy dog";
         String article = "the";

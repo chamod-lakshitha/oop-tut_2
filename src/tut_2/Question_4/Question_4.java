@@ -1,9 +1,6 @@
 package tut_2.Question_4;
-
-import Question.Question;
-
-public class Question_4 implements Question {
-    public void run(){
+public class Question_4{
+    public static void main(String[] args){
         VendingMachine machine = new VendingMachine();
         machine.fillUp(10); // fill up with ten cans
         machine.insertToken();

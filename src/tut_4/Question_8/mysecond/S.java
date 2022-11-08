@@ -1,6 +1,6 @@
 package tut_4.Question_8.mysecond;
 
-class S extends P {
+/*class S extends P {
     public void bar() {
         x = 2.5; // line 8
         y = 3.5; // line 9
@@ -12,4 +12,4 @@ class S extends P {
         p4.z = 4.5; // line 16
         p4.w = 5.5; // line 17
     }
-}
+}*/
